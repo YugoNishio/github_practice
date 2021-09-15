@@ -1,2 +1,3 @@
 print('Hi,Hello?')
-print('Hell,Have a nice day!')
+print('Hello,Have a nice day!')
+print('Gundamu')
